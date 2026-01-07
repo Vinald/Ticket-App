@@ -6,6 +6,16 @@
 *.swp
 .buildlog/
 .history
+.idea/
+.packages.bak
+.svn/
+.vs/
+.DS_Store
+.env
+.env.local
+.env.development
+.env.test
+.env.production
 
 
 
